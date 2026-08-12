@@ -13,6 +13,9 @@ Connect to VPN, then RDP
 ## Sync
 
 To Sync changes across Domain Controllers (DC)
+
+Source:  Gerard Barra
+
 ```
 repadmin /syncall /Aedpq
 ```
